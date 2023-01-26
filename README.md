@@ -744,7 +744,7 @@ Publish the website in the given URL.
 ![212962544-d57eed28-6635-46af-ae01-33e0c48e6246](https://user-images.githubusercontent.com/119559871/214376504-faaf2228-f723-4505-98d7-1b3318cc64a7.png)
 
 
-![212962639-773f8b3c-5073-4ed4-b005-21bd7c46b15e](https://user-images.githubusercontent.com/119559871/214376519-921738ce-1054-48e0-8561-6c49ff93b651.png)
+
 
 
 
